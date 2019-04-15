@@ -1,2 +1,2 @@
 # alpine-curl-jq
-Small docker image containing curl and jq
+Alpine Linux docker image containing curl and jq.
