@@ -1,5 +1,4 @@
 # Developer: Sergio PINO <info@sergiopino.com>
-#
 # GitHub:  https://github.com/sergipino
 # Docker:  https://hub.docker.com/u/srmpino
 
