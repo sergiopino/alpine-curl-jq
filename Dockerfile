@@ -6,4 +6,6 @@ FROM alpine:3.9.3
 
 RUN apk add --no-cache curl jq
 
+RUN apk add --no-cache bash libxml2-utils
+
 CMD ["/bin/sh"]
