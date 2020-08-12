@@ -1,7 +1,7 @@
-# Developer: Fernando Miguélez <fernando.miguelez@gmail.com>
+# Developer: Sergio PINO <info@sergiopino.com>
 #
-# GitHub:  https://github.com/fmiguelez
-# Docker:  https://hub.docker.com/u/fmiguelez
+# GitHub:  https://github.com/sergipino
+# Docker:  https://hub.docker.com/u/srmpino
 
 FROM alpine:3.9.3
 
